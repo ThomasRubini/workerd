@@ -1,0 +1,19 @@
+src/workerd/api/sockets.c++
+  s_4c978bfcd6debb::t_e0e45560cf1216 817-823,977-978
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "656fca05ca8a5066db1ad6b2acd9ee23eaaecb27",
+  "prompts": {},
+  "sessions": {
+    "s_4c978bfcd6debb": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fdaf26d8cffeXrQ1JVSUA06IMe",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Thomas Rubini <trubini@cloudflare.com>"
+    }
+  }
+}
